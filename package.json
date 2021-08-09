@@ -1,0 +1,42 @@
+{
+  "name": "firstVue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cache-loader": "^4.1.0",
+    "core-js": "^2.6.5",
+    "echarts": "^5.1.2",
+    "element-ui": "^2.15.3",
+    "js-cookie": "^3.0.0",
+    "mapvgl": "file:node_modules/mapvgl",
+    "mini-css-extract-plugin": "^2.1.0",
+    "mockjs": "^1.1.0",
+    "three": "^0.125.2",
+    "vue": "^2.6.10",
+    "vue-baidu-map": "^0.21.22",
+    "vue-cookies": "^1.7.4",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2",
+    "webpack": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^4.5.13",
+    "less": "^3.13.1",
+    "less-loader": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "globals": {
+      "BMap": true
+    }
+  },
+  "externals": {
+    "BMap": "BMap"
+  }
+}
