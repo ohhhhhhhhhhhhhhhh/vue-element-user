@@ -1,5 +1,8 @@
 # vue-element-user
- vue-element-user
+ Vue-element-user, hi!
+ 
+ 
+ Bye, vue-element-user.
 
 
   Due to the rush of time and the change of plans, I have to use the vue-element-admin template for development. This website program design that I spent a lot of energy but haven't completed has to be stopped. This is the result of knocking the keyboard from scratch, including many experiences and my new ideas. I deeply appreciate it, Therefore, I have no choice but to upload it here for future review and share it with you, the another meaning to commemorate it, because when will I contact front-end development next time? Maybe it's building my own blog, maybe doing software development, or maybe it's far away.
